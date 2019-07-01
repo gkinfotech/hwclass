@@ -1,0 +1,26 @@
+<annotation>
+	<folder>HWSelected</folder>
+	<filename>IMG_20180816_064705.jpg</filename>
+	<path>/Users/503502/Downloads/GK_Res/Wrist Features/HWSelected/IMG_20180816_064705.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4048</width>
+		<height>3036</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lefthandwrist</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>436</xmin>
+			<ymin>1202</ymin>
+			<xmax>2542</xmax>
+			<ymax>1946</ymax>
+		</bndbox>
+	</object>
+</annotation>
